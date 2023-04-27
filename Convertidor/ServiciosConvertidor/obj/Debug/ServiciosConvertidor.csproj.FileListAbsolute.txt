@@ -1,0 +1,7 @@
+D:\Coding\.NET\C#\WCF\Convertidor\ServiciosConvertidor\bin\Debug\ServiciosConvertidor.dll.config
+D:\Coding\.NET\C#\WCF\Convertidor\ServiciosConvertidor\bin\Debug\ServiciosConvertidor.dll
+D:\Coding\.NET\C#\WCF\Convertidor\ServiciosConvertidor\bin\Debug\ServiciosConvertidor.pdb
+D:\Coding\.NET\C#\WCF\Convertidor\ServiciosConvertidor\obj\Debug\ServiciosConvertidor.csproj.AssemblyReference.cache
+D:\Coding\.NET\C#\WCF\Convertidor\ServiciosConvertidor\obj\Debug\ServiciosConvertidor.csproj.CoreCompileInputs.cache
+D:\Coding\.NET\C#\WCF\Convertidor\ServiciosConvertidor\obj\Debug\ServiciosConvertidor.dll
+D:\Coding\.NET\C#\WCF\Convertidor\ServiciosConvertidor\obj\Debug\ServiciosConvertidor.pdb
