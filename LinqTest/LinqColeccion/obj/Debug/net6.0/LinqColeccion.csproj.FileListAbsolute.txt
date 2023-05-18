@@ -1,0 +1,15 @@
+D:\Coding\.NET\C#\LINQ\LinqTest\LinqColeccion\bin\Debug\net6.0\LinqColeccion.exe
+D:\Coding\.NET\C#\LINQ\LinqTest\LinqColeccion\bin\Debug\net6.0\LinqColeccion.deps.json
+D:\Coding\.NET\C#\LINQ\LinqTest\LinqColeccion\bin\Debug\net6.0\LinqColeccion.runtimeconfig.json
+D:\Coding\.NET\C#\LINQ\LinqTest\LinqColeccion\bin\Debug\net6.0\LinqColeccion.dll
+D:\Coding\.NET\C#\LINQ\LinqTest\LinqColeccion\bin\Debug\net6.0\LinqColeccion.pdb
+D:\Coding\.NET\C#\LINQ\LinqTest\LinqColeccion\obj\Debug\net6.0\LinqColeccion.csproj.AssemblyReference.cache
+D:\Coding\.NET\C#\LINQ\LinqTest\LinqColeccion\obj\Debug\net6.0\LinqColeccion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\.NET\C#\LINQ\LinqTest\LinqColeccion\obj\Debug\net6.0\LinqColeccion.AssemblyInfoInputs.cache
+D:\Coding\.NET\C#\LINQ\LinqTest\LinqColeccion\obj\Debug\net6.0\LinqColeccion.AssemblyInfo.cs
+D:\Coding\.NET\C#\LINQ\LinqTest\LinqColeccion\obj\Debug\net6.0\LinqColeccion.csproj.CoreCompileInputs.cache
+D:\Coding\.NET\C#\LINQ\LinqTest\LinqColeccion\obj\Debug\net6.0\LinqColeccion.dll
+D:\Coding\.NET\C#\LINQ\LinqTest\LinqColeccion\obj\Debug\net6.0\refint\LinqColeccion.dll
+D:\Coding\.NET\C#\LINQ\LinqTest\LinqColeccion\obj\Debug\net6.0\LinqColeccion.pdb
+D:\Coding\.NET\C#\LINQ\LinqTest\LinqColeccion\obj\Debug\net6.0\LinqColeccion.genruntimeconfig.cache
+D:\Coding\.NET\C#\LINQ\LinqTest\LinqColeccion\obj\Debug\net6.0\ref\LinqColeccion.dll
