@@ -1,0 +1,17 @@
+﻿<Window x:Class="FrontEndEscolar.InicioSesion"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FrontEndEscolar"
+        mc:Ignorable="d"
+        Title="Inicio de Sesion" Height="250" Width="500" Background="#FF1A1A1A">
+    <Grid>
+        <Label Content="Usuario" HorizontalAlignment="Left" Margin="100,51,0,0" VerticalAlignment="Top" Background="{x:Null}" Foreground="White"/>
+        <TextBox x:Name="tbUsuario" HorizontalAlignment="Center" Margin="0,77,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="300" Foreground="White" Background="#FF2E2E2E"/>
+        <Label Content="Constraseña" HorizontalAlignment="Left" Margin="100,126,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <TextBox x:Name="tbContrasenia" HorizontalAlignment="Center" Margin="0,152,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="300" Background="#FF2E2E2E" Foreground="White"/>
+        <Label Content="Control Escolar UV" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" FontSize="20" FontFamily="Impact" Background="{x:Null}" Foreground="#FF091DD4"/>
+        <Button x:Name="btnIniciarSesion" Content="Iniciar Sesion" HorizontalAlignment="Center" Margin="0,204,0,0" VerticalAlignment="Top" Background="#FF0921D9" BorderBrush="Black" Foreground="White" Click="btnIniciarSesion_Click"/>
+    </Grid>
+</Window>

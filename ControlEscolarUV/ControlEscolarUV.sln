@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiciosLinqEscolar", "ServiciosLinqEscolar\ServiciosLinqEscolar.csproj", "{14F92E28-B907-4AE5-AB69-7F8733FFD4C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrontEndEscolar", "FrontEndEscolar\FrontEndEscolar.csproj", "{BA8C41F4-5BE2-4CA7-A0AA-81BDD6E0633B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14F92E28-B907-4AE5-AB69-7F8733FFD4C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14F92E28-B907-4AE5-AB69-7F8733FFD4C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14F92E28-B907-4AE5-AB69-7F8733FFD4C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14F92E28-B907-4AE5-AB69-7F8733FFD4C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA8C41F4-5BE2-4CA7-A0AA-81BDD6E0633B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA8C41F4-5BE2-4CA7-A0AA-81BDD6E0633B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA8C41F4-5BE2-4CA7-A0AA-81BDD6E0633B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA8C41F4-5BE2-4CA7-A0AA-81BDD6E0633B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4A4671B-8E03-4BB3-8618-45BF257C89EA}
+	EndGlobalSection
+EndGlobal
